@@ -1,0 +1,1 @@
+# Bivariate_MulCoLinear_VIF
